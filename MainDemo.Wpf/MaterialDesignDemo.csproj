@@ -44,4 +44,7 @@
     <PackageReference Include="ShowMeTheXAML.AvalonEdit" />
     <PackageReference Include="ShowMeTheXAML.MSBuild" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Test\" />
+  </ItemGroup>
 </Project>
